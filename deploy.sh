@@ -24,5 +24,5 @@ git config user.email "jokns@wmsxwd.com"
 
 git add -A
 git commit -m 'update'
-git push "https://9ed4d03bf102d55941361eca50c33a91a5a5bf75@github.com/wmsxwdwiki/wmsxwdwiki.github.io.git" master
+git push "https://${SUPER_TOKEN}@github.com/wmsxwdwiki/wmsxwdwiki.github.io.git" master
 popd
